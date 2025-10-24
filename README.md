@@ -18,7 +18,7 @@ The agent was able to understand the context (like "that email") and execute all
 
 ### 🛠️ Tools Used
 * **OpenAI Agent Builder (Assistants API)**
-* **GPT-5-nano Model** (या जो भी मॉडल आपने इस्तेमाल किया)
+* **GPT-5-nano Model** 
 * **Zapier AI Actions (MCP API)**
 * **Gmail** (as the target application via Zapier)
 
