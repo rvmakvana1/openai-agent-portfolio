@@ -33,12 +33,12 @@ The agent was able to understand the context (like "that email") and execute all
 **Agent UI (Model & Tools)**
 *This screenshot shows the main agent configuration, including the instructions, the GPT model selected, and the Zapier tool.*
 
-![Agent Configuration]([यहाँ_gmail-agent-configuration.png_का_लिंक_डालें])
+![Agent Configuration]([https://github.com/rvmakvana1/openai-agent-portfolio/blob/main/openai-agent-with-zapier-tool.png?raw=true])
 
 **Available Gmail Tools via Zapier**
 *This screenshot details the extensive list of Gmail-specific actions (tools) that the agent can choose from, provided by Zapier.*
 
-![Zapier Gmail Tools List]([यहाँ_zapier-gmail-tools-list.png_का_लिंक_डालें])
+![Zapier Gmail Tools List]([https://github.com/rvmakvana1/openai-agent-portfolio/blob/main/zapier-gmail-tools-list.png?raw=true])
 
 ### 🧠 Challenges & Learnings
 This project was a major step in understanding the future of automation. The key learning was the shift from *visual, step-by-step workflows* (like in n8n) to *instruction-based autonomous agents*. Instead of building the "how," the focus is now on providing the right instructions and the right tools. The agent itself figures out the 'workflow' on the fly. This is a much more powerful and flexible approach, truly defining the role of an "AI Agent & Automation Specialist."
